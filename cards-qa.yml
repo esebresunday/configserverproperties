@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+contact:
+  message: "Welcome to esebray cards service qa"
+  contact_info:
+    name: "Daniel Esebre qa"
+    email: "sunday.esebre@company.com cards"
+  onCallSupport:
+    - 11
+    - 55

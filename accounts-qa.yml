@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "3.0"
+
+contact:
+  message: "Welcome to esebray account service qa"
+  contactInfo:
+    name: "Sunday Esebre qa"
+    email: "qa@company.com"
+  onCallSupport:
+    - 66666
+    - 77777

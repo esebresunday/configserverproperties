@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+contact:
+  message: "Welcome to esebray cards service production"
+  contact_info:
+    name: "Daniel Esebre production"
+    email: "sunday.esebre@company.com cards"
+  onCallSupport:
+    - 22
+    - 44

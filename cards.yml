@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+contact:
+  message: "Welcome to esebray cards service default"
+  contact_info:
+    name: "Daniel Esebre"
+    email: "sunday.esebre@company.com cards"
+  onCallSupport:
+    - 333333333
+    - 22222222
