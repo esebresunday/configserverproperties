@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 contact:
-  message: "Welcome to esebray cards service production from github"
+  message: "Welcome to esebray cards service prod from github"
   contact_info:
     name: "Daniel Esebre pr"
     email: "sunday.esebre@company.com cards"
@@ -10,6 +10,7 @@ contact:
     - 22
 
     - 44
+
 
 
 
