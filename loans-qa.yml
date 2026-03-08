@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 contact:
-  message: "Welcome to esebray loan service qa from github"
+  message: "Welcome to esebray loan service quality assurance from github"
   contact_info:
     name: "Daniel Esebre loan qa"
     email: "sunday.esebre@company.com loan qa"
@@ -10,3 +10,4 @@ contact:
     - 88
 
     - 99
+
