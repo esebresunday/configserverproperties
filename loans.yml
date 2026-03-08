@@ -2,10 +2,11 @@ build:
   version: "1.0"
 
 contact:
-  message: "Welcome to esebray loan service default"
+  message: "Welcome to esebray loan service default from github"
   contact_info:
     name: "Daniel Esebre loan"
     email: "sunday.esebre@company.com loan"
   onCallSupport:
     - 77
+
     - 77
