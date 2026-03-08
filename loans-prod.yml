@@ -2,10 +2,11 @@ build:
   version: "3.0"
 
 contact:
-  message: "Welcome to esebray loan service production"
+  message: "Welcome to esebray loan service production from github"
   contact_info:
     name: "Daniel Esebre loan production"
     email: "sunday.esebre@company.com loan production"
   onCallSupport:
     - 99
+
     - 99
