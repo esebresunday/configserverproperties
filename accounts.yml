@@ -18,7 +18,7 @@ build:
   version: "1.0"
 
 contact:
-  message: "Welcome to esebray account service default"
+  message: "Welcome to esebray account service default from github"
   contact_info:
     name: "Sunday Esebre"
     email: "sunday.esebre@company.com"
