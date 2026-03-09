@@ -7,12 +7,13 @@ build:
   version: "2.0"
 
 contact:
-  message: "Welcome to esebray account service prod from github"
+  message: "Welcome to esebray account service prod from github webhook"
   contactInfo:
     name: "Sunday Esebre production"
     email: "prod@company.com"
   onCallSupport:
     - 444444
     - 55555
+
 
 
