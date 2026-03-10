@@ -17,7 +17,7 @@ spring:
       ddl-auto: update
     show-sql: true
   rabbitmq:
-    host: "localhost"
+    host: "rabbit"
     port: 5672
     username: "guest"
     password: "guest"
@@ -41,3 +41,4 @@ contact:
   onCallSupport:
     - 333333333
     - 22222222
+
