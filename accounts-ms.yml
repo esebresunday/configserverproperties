@@ -30,3 +30,14 @@ management:
       exposure:
 
         include: "*"
+build:
+  version: "1.0"
+
+contact:
+  message: "Welcome to esebray account service default from github webhook"
+  contact_info:
+    name: "Sunday Esebre"
+    email: "sunday.esebre@company.com"
+  onCallSupport:
+    - 333333333
+    - 22222222
