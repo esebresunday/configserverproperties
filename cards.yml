@@ -15,7 +15,7 @@ spring:
       ddl-auto: update
     show-sql: true
   config:
-    import: "optional:configserver:http://config-server:8071"
+    import: "optional:configserver:http://configserver:8071"
   application:
     name: "cards"
   profiles:
