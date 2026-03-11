@@ -31,7 +31,7 @@ management:
       exposure:
         include: "*"
 build:
-  version: "1.0"
+  version: "1.0.0"
 
 contact:
   message: "Welcome to esebray cards service default from github"
@@ -40,5 +40,4 @@ contact:
     email: "sunday.esebre@company.com cards"
   onCallSupport:
     - 333333333
-
     - 22222222
