@@ -32,7 +32,7 @@ management:
       exposure:
         include: "*"
 build:
-  version: "1.0"
+  version:  "1.0.0"
 
 contact:
   message: "Welcome to esebray loan service default from github"
@@ -41,5 +41,4 @@ contact:
     email: "{cipher}bc3d247f925c706c8175c067fa1717e0042978f1bc84916761e715579216415aba7bc67589c21712e02ce9a759875b0b"
   onCallSupport:
     - 77
-
     - 77
