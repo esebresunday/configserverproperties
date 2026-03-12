@@ -1,3 +1,5 @@
+build:
+  version: "1.0.0"
 server:
   port: 8090
 spring:
@@ -30,8 +32,7 @@ management:
       exposure:
 
         include: "*"
-build:
-  version: "1.0.0"
+
 
 contact:
   message: "Welcome to esebray account service default from github webhook"
@@ -41,6 +42,7 @@ contact:
   onCallSupport:
     - 333333333
     - 22222222
+
 
 
 
