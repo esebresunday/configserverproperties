@@ -1,38 +1,5 @@
 build:
   version: "1.0.0"
-server:
-  port: 8090
-spring:
-  application:
-    name: "accounts"
-  datasource:
-    url: jdbc:h2:mem:testdb
-    driverClassName: org.h2.Driver
-    username: sa
-    password: ''
-  h2:
-    console:
-      enabled: true
-  jpa:
-    database-platform: org.hibernate.dialect.H2Dialect
-    hibernate:
-      ddl-auto: update
-    show-sql: true
-  rabbitmq:
-    host: "rabbit"
-    port: 5672
-    username: "guest"
-    password: "guest"
-
-  config:
-    import: "optional:configserver:http://configserver:8071"
-management:
-  endpoints:
-    web:
-      exposure:
-
-        include: "*"
-
 
 contact:
   message: "Welcome to esebray account service default from github webhook"
