@@ -3,7 +3,7 @@ build:
 
 contact:
   message: "Welcome to esebray account service default from github webhook"
-  contact_info:
+  contactInfo:
     name: "Sunday Esebre"
     email: "sunday.esebre@company.com"
   onCallSupport:
