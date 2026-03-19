@@ -3,7 +3,7 @@ build:
 
 contact:
   message: "Welcome to esebray cards service default from github"
-  contact_info:
+  contactInfo:
     name: "Daniel Esebre"
     email: "sunday.esebre@company.com cards"
   onCallSupport:
